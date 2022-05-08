@@ -1,4 +1,8 @@
-### Hi there 👋
+***A visitor, welcome!*** 🌱🌱🌱
+
+If interested, most of my hobby projects can be found on: https://nyuriumuri.github.io/Projects/archive/
+
+
 
 <!--
 **nyuriumuri/nyuriumuri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
