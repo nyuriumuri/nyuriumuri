@@ -1,6 +1,6 @@
 ***A visitor, welcome!*** 🌱🌱🌱
 
-If interested, most of my hobby projects can be found on my [website](https://nyuriumuri.github.io/Projects/archive/).
+Some hobby projects can be found on my [website](https://nyuriumuri.github.io/Projects/archive/).
 
 
 
